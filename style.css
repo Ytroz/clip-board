@@ -211,7 +211,7 @@ width: 100%;
 flex-direction: row;
 gap: 90px;
 background-color: hsl(205, 33%, 90%);
-/* height: 150px;  */
+height: 150px; 
 margin-top: 50px;
 
 }
@@ -221,7 +221,11 @@ margin-top: 50px;
     margin-left: 530px;
     height: 40px;
     flex-direction: row;
-    gap: 80px;
+    gap: 40px;
+    margin-top: 30px;
+}
+.icon a, .icon2 a, .icon3 a{
+text-decoration: none;
 }
 
 
